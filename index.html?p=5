@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="zh-cmn-Hans"><head>
+<meta name="version" content="New Cms V1.0.161011 公测版" />
+<meta name="author" content="程序作者：新成" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>貝通 商業生態應用  -  BTDE-Bethon Digital Ecosystem</title>
+<meta name="keywords" content="">
+<meta name="description" content="貝通數字生態系統的使命是要為數字資產的愛好者和投資者在貝通數字生態系統中提供更好的交易體驗、更好的商業流通和應用，而且擁有更安全、透明、自由、公平等服務，貝通數字生態交易所是幫助所有區塊鏈參與者擁有安全、自由、多樣的交易場景，">
+<link rel="shortcut icon" href="http://btde.vip/blog/templet/qukuai/image/favicon.ico"/>
+   <!-- Style file -->
+     <link rel="stylesheet" href="templet/qukuai/css/j_reset.css">
+      <link rel="stylesheet" href="templet/qukuai/css/j_web.css">
+      <link rel="stylesheet" href="templet/qukuai/css/j_animate.css">  
+       <script type="text/javascript" src="templet/qukuai/javascript/jquery-1.9.1.min.js"></script>
+      <script type="text/javascript" src="http://btde.vip/templet/qukuai/javascript/j_reset.js"></script>
+      <script type="text/javascript" src="templet/qukuai/javascript/j_web.js"></script>
+      <script type="text/javascript" src="templet/qukuai/javascript/j_div_scoll.js"></script>
+    <!-- Compatible files -->
+    <!--[if lt IE 9]>
+      <script src="/templet/qukuai/javascript/j_ijr.js"></script>
+    <![endif]--> 
+</head> 
+<body>
+<link rel="shortcut icon" href="http://btde.vip/blog/templet/qukuai/image/favicon.ico">
+<div id="j_body">
+<!--=============================================header=============================================-->
+    
+  <!--=============================================header=============================================-->
+<header id="header">
+  <div class="main_box">
+  
+    <div id="logo"> <a href="index.html?p=5" title=""><img src="templet/qukuai/img/logo.png" alt="" /></a> </div>
+    <aside id="lan_box">
+      <div class="box">
+        <h1>中文繁体</h1>
+      <div class="content">
+        <a href="en/index.html" href="index.html?p=5#">English </a>
+        <a href="cn/index.html" href="index.html?p=5#">中文简体</a>
+      </div>
+      </div>
+      
+    </aside>
+     <a href="javascript:void(0)" id="bnt_site_map"></a>
+    
+  <div id="nav">
+        <img class="nav_logo" src="templet/qukuai/img/logo.png" width="50px" />
+        <ul>
+            <li><a href="index.html#banner" title="" class="a"><strong>首頁</strong><span><i></i></span></a></li>
+            <li  ><a href="index.html#section1" title="" class="a"><strong>關於BTDE</strong><span><i></i></span></a> </li>
+            <li ><a href="index.html#section2" title="" class="a"><strong>應用場景</strong><span><i></i></span></a>
+               
+            </li>
+            <li><a href="index.html#section3" title="" class="a"><strong>白皮書</strong><span><i></i></span></a>
+               
+            </li>
+            <li><a href="index.html#section4" title="" class="a"><strong>生態系統</strong><span><i></i></span></a>
+               
+            </li>
+            <li><a href="index.html#section5" title="" class="a"><strong>合作媒體</strong><span><i></i></span></a>
+               
+            </li>
+            <li><a href="index.html#section6" title="" class="a"><strong>升值理念</strong><span><i></i></span></a>
+               
+            </li>
+            <li><a href="index.html#section7" title="" class="a"><strong>社區</strong><span><i></i></span></a>
+               
+            </li>
+
+             
+            <div class="clear"></div>
+        </ul>
+        <div id="bnt_nav_close">CLOSE</div>
+    </div>
+  
+    <div class="clear"></div>
+  </div>
+</header> 
+ <style type="text/css">
+	 canvas{ top: -50px; height: 700px !important; opacity:.9;filter:alpha(opacity=90);}	
+</style>
+<!--=============================================header_end=============================================-->
+ 
+<section id="n_banner"  class="section">
+   
+    
+</section>
+
+<!--=============================================content=============================================-->
+ <section id="n_main_box">
+    <section class="n_up_box" id="n_nav_bar">
+    <div class="main_box">
+   
+        <section class="position">
+                    <span>当前位置：</span><a href="index.html" title="">首页</a> | <a href="index.html?cat=1">資訊中心</a> | <a href="index.html?cat=2">公示公告</a>
+		 </section>
+        <section id="n_nav">
+            <div class="main_box">
+                        
+                        <a class="on" href="index.html?cat=2" title="公示公告"><span></span><strong>公示公告</strong></a>
+						
+                        <a href="index.html?cat=4" title="行業動態"><span></span><strong>行業動態</strong></a>
+						
+                                    <div class="clear"></div>
+            </div>
+         </section>
+      </div>
+    
+    </section>
+    <section class="n_content">
+      <div class="main_box">
+        <article class="n_article">
+          
+             
+                    <div class="ar_title"   aos="fade-left" aos-duration="3000">
+                    
+                      <h2><strong>2018/6/19 14:02:19</strong>  </h2>
+                        <h1>貝通 商業生態應用</h1>
+                        
+                        
+                    </div>
+                    <article class="ar_article">
+                        
+                         
+                         <p style="text-indent:2em;">
+	<br />
+</p>
+<div style="text-align:left;">
+	<span>貝通數字生態系統的使命是要為數字資產的愛好者和投資者在</span>貝通數字生態系統中提供更好的交易體驗、更好的商業流通和應用，而且擁有更安全、透明、自由、公平等服務，貝通數字生態交易所是幫助所有區塊鏈參與者擁有安全、自由、多樣的交易場景，讓數字資產在場上更好的流通。為此，貝通數字生態系統的工作都將以圍繞建設商業資產數字化，同時更快速的應用於商業生態為原則，打通貝通數字生態系統中的區塊鏈產業間的壁壘，真正為項目方和投資方服務。同時貝通數字生態系統可以幫助企業做品牌推廣、通路建設、商品銷售、通證發行、通證兌換、項目路演、企業上市等提供服務。
+</div>
+<div style="text-align:left;">
+	<span>貝通數字生態系統有以下生態應用機制：</span> 
+</div>
+<div style="text-align:left;">
+	<span>5.1 &nbsp;項目發佈機制</span> 
+</div>
+<div style="text-align:left;">
+	<span>貝通數字生態系統中所有的數字生態應用項目方皆可以在貝通</span>數字生態交易所申请發佈數字通證產生流通價值。
+</div>
+<div style="text-align:left;">
+	<span>5.2 &nbsp;生態共 享 機制</span> 
+</div>
+<div style="text-align:left;">
+	<span>貝通數字生態系統內部實現大數据共存、流量互通與資源共享機</span>制，處於貝通數字生態圈的各個數字生態項目應用通過貝通數字生態系統的推薦、撮合和無縫連結下，實現快速交易、流通和應用的寬度及深度，從而在一定程度上解决區塊鏈項目文宣難、平臺流量匱乏，以及數字資產真正在商業生態中應用流通等難題，達到真正在貝通數字生態圈自帶流量與創造流量模式，達成共贏生態系統。
+</div>
+<div style="text-align:left;">
+	<span>5.3 &nbsp;生態流通機制</span> 
+</div>
+<div style="text-align:left;">
+	<span>貝通數字生態系統包含生態公鏈、生態交易所、生態錢包、生態</span>商城等貝通數字生態商業應用系統，及所有合作的生態項目為 BTDE的生態應用與流通奠定了堅實的基礎。
+</div>
+<div style="text-align:left;">
+	<span>5.4 &nbsp;生態交易機制</span> 
+</div>
+<div style="text-align:left;">
+	<span>貝通數字生態交易所【BTEX】選擇行業內科技要求高最難啃的骨</span>頭—C/C++開發高併發的撮合交易系統（注：證券交易所、商品期貨交易所都是基於 C/C++開發的撮合系統），在保障超高撮合速度前提下，又能高速精准為用戶完成了交易流程。同時，在 BTEX 生態交易所穩定運行工程中，配備專業的運維工具和團隊，保障生態系統的7X24 小時的安全穩定運行，使平臺擁有面臨故障的快速處理能力。貝通數字生態交易所【BTEX】會對生態內所有交易所進行嚴格要求，並成立專業的貝通數字生態系統監察委員會進行項目的稽核與監管，給每個項目方提交一份項目核驗單。同時我們還會根據市場和輿論迴響，不斷補充資訊，保障生態通證持有者的權益。
+</div>
+<div style="text-align:center;">
+	<span></span> 
+</div>
+<p>
+	<br />
+</p>
+<p style="text-align:left;">
+	<br />
+</p>           
+                         
+                    </article>
+                    
+                   <section id="ar_fot">
+                      <h1><span>上一篇：</span>没有了！</h1>
+                      <h1><span>下一篇：</span><a class="next" href="index.html?p=6">貝通數字生態系統Bethon Digital Ecosystem</a></h1>
+                   <div class="shart_box">
+            <div class="bdsharebuttonbox" id="j_shart_s_24" data-tag="share_1">
+              <strong> 分享：</strong>
+               <a class="bds_tqq" data-cmd="tqq" title="腾讯微博"></a>
+               <a class="bds_qzone" data-cmd="qzone" title="QQ空间"></a> 
+               <a class="bds_sqq" data-cmd="sqq" title="QQ好友"></a> 
+               <a class="bds_tsina" data-cmd="tsina" title="新浪微博"></a>
+               <a class="bds_weixin" data-cmd="weixin" title="微信"></a>  
+              </div>
+          </div>
+          <script>
+            window._bd_share_config = {
+
+              share : [{
+                "bdSize" : 24
+              }],
+
+
+            }
+            with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion='+~(-new Date()/36e5)];
+          </script>
+              </section>
+            
+      
+            </article>
+      <div class="clear"></div>
+        </div>
+      
+    </section>
+</section>
+<!--============================footer============================= -->
+<div class="bar_fot" ><div class="line_bar"></div></div>
+<footer id="footer">
+  
+    <div class="main_box">
+        <div class="copyright"> 
+        <img src="templet/qukuai/img/logo_fot.png" />
+      Copyright ©2019 BTDE TEAM<br>
+      <a href="mailto:btde@hotmail.com" title="" target="_blank"> E-mail：btde@hotmail.com
+</a> 
+      </div>
+       <div id="fot_nav">
+         <dl>
+         <dd>
+             <h1>關於BTDE</h1>
+             <a href="index.html#section1" title="" >BTDE介紹</a>
+             <a href="index.html#section4" title="">貝通數字生態系統</a>
+             <a href="mailto:btde@hotmail.com" title="">聯系我們</a>
+               
+           </dd>
+           <dd>
+             <h1>白皮书</h1>
+             <a href="statics/upload/baipishu/wp.pdf" target="_blank" title="">白皮書</a>
+             <a href="statics/upload/baipishu/wp.pdf" title="">White_Paper</a>
+           </dd>
+           <dd>
+             <h1>資訊中心</h1>
+             <a href="index.html?cat=2" title="公示公告">公示公告</a>
+             <a href="index.html?cat=4" title="行業動態">行業動態</a>       
+           </dd>
+           <dd>
+             <h1>合作單位</h1>
+             <a href="index.html#section5" title="">合作媒體</a>
+              
+           </dd>
+
+           <div class="clear"></div>
+         </dl>
+       </div>
+       
+       
+       <div class="clear"></div>
+  </div>
+ 
+  
+</footer>
+</div>
+<script type="text/jscript" src="templet/qukuai/javascript/j_animate.js"></script>
+
+</body>
+<!--New Cms V1.0.161011 公测版
+作者博客：zhanxincheng.com-->
+</html> 
